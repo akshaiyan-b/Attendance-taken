@@ -4,7 +4,6 @@ Certainly! Here's a README template for your attendance management machine learn
 
 # Attendance Management System with Face Recognition
 
-![Project Image](insert_project_image_link_here)
 
 ## Table of Contents
 
